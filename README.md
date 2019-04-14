@@ -1,2 +1,2 @@
 # study-python
-study python coding ,including, fundamental class, practice aircraft battle, obtain employment clss
+study python code ,including, fundamental class, practice aircraft battle, obtain employment clss(not over)
